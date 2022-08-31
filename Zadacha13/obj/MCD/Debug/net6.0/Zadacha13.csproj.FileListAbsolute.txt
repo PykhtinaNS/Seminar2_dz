@@ -1,0 +1,15 @@
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\bin\MCD\Debug\net6.0\Zadacha13.exe
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\bin\MCD\Debug\net6.0\Zadacha13.deps.json
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\bin\MCD\Debug\net6.0\Zadacha13.runtimeconfig.json
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\bin\MCD\Debug\net6.0\Zadacha13.dll
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\bin\MCD\Debug\net6.0\Zadacha13.pdb
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\obj\MCD\Debug\net6.0\Zadacha13.csproj.AssemblyReference.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\obj\MCD\Debug\net6.0\Zadacha13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\obj\MCD\Debug\net6.0\Zadacha13.AssemblyInfoInputs.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\obj\MCD\Debug\net6.0\Zadacha13.AssemblyInfo.cs
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\obj\MCD\Debug\net6.0\Zadacha13.csproj.CoreCompileInputs.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\obj\MCD\Debug\net6.0\Zadacha13.dll
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\obj\MCD\Debug\net6.0\refint\Zadacha13.dll
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\obj\MCD\Debug\net6.0\Zadacha13.pdb
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\obj\MCD\Debug\net6.0\Zadacha13.genruntimeconfig.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Sem2_dz\Zadacha13\obj\MCD\Debug\net6.0\ref\Zadacha13.dll
